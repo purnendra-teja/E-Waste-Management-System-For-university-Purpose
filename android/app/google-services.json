@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149334414845",
+    "project_id": "newe-hub",
+    "storage_bucket": "newe-hub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149334414845:android:ec0e18daa53e9832527594",
+        "android_client_info": {
+          "package_name": "com.example.ecycle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrkxcnvF-wOFh5LVTzVe5EnmHV0ottLpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
